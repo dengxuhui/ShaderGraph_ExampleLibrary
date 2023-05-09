@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: QuadMat-PatternShatterAutoRotation
   m_Shader: {fileID: 4800000, guid: cd2e43c4fa70b4040a94285b75bc6123, type: 3}
   m_ShaderKeywords: 
@@ -61,7 +62,7 @@ Material:
     m_Floats:
     - Vector1_4856F74: 8
     - Vector1_4D34F84A: 0
-    - Vector1_58B79DC6: 100
+    - Vector1_58B79DC6: 12
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
